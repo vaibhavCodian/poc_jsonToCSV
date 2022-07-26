@@ -1,0 +1,5 @@
+,,first_name,last_name,email,occupation,company_name,evaluation
+users,0,Vaibhav,Shukla,vaibhavshukla.try@gmail.com,developer,,
+users,1,Shankar,Shekhawat,shankar.shaikhawat@gmail.com,customer support,,
+companies,0,,,hello@nike.in,,nike,1B$
+companies,1,,,hello@apple.in,,apple,1200B$

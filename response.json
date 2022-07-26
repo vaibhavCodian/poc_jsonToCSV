@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "first_name": "Vaibhav",
+      "last_name": "Shukla",
+      "email": "vaibhavshukla.try@gmail.com",
+      "occupation": "developer"
+    },
+    {
+      "first_name": "Shankar",
+      "last_name": "Shekhawat",
+      "email": "shankar.shaikhawat@gmail.com",
+      "occupation": "customer support"
+    }
+  ],
+  "companies": [
+    {
+      "company_name": "nike",
+      "evaluation": "1B$",
+      "email": "hello@nike.in"
+    },
+    {
+      "company_name": "apple",
+      "evaluation": "1200B$",
+      "email": "hello@apple.in"
+    }
+  ]
+}
